@@ -8,7 +8,7 @@
 <p align="center">
     <img alt="Platform" src="https://img.shields.io/static/v1?label=Platform&message=PC&color=8257e6&labelColor=#">
     <a href="">
-        <img src="https://img.shields.io/badge/Nlw-eSports-8257e6?&labelColor=002d39"></img>
+        <img src="https://img.shields.io/badge/Nlw-eSports-8257e6?&labelColor=#"></img>
     </a>
     <img alt="Repository size" src="https://img.shields.io/github/repo-size/GabrielMedradoS/Nlw-eSports?color=8257e6&labelColor=#">
     <a href="">
