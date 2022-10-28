@@ -64,10 +64,10 @@ $ npm run dev
 
 #### documentation 📜
 
-<!-- _`Aula 1 :`_
+_`Aula 1 :`_
 
-- [IMDB | API](https://imdb-api.com/api)
-- [Class HttpRequest](https://docs.oracle.com/en/java/javase/17/docs/api/java.net.http/java/net/http/HttpRequest.html) -->
+- [Tailwind](https://tailwindcss.com/docs/installation/using-postcss)
+- [Tailwind backgroundImage](https://tailwindcss.com/docs/background-image)
 
 ## Licença ⚖️
 
