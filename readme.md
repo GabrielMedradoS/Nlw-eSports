@@ -29,6 +29,37 @@
 
 ## Projeto 💻
 
+## Rodar o projeto 🚴🏻‍♂️
+
+#### On your machine:
+
+##### Front-end
+
+<details>
+    <summary>Dependencies</summary>
+
+```json
+
+```
+
+</details>
+
+```bash
+# Clone the repository
+$ git clone https://github.com/GabrielMedradoS/Nlw-eSports.git
+
+# Access the project folder at the command prompt
+$ cd return/web
+
+# Install the dependencies
+$ npm install
+
+# Run the script "start"
+$ npm run dev
+
+# The project will start at the door: 5173 - access http://localhost:5173
+```
+
 ## Tecnologias 🛠
 
 #### documentation 📜
