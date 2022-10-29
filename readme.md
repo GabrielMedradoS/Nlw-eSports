@@ -29,10 +29,10 @@
 
 ## Projeto 💻
 
-## Rodar o projeto 🚴🏻‍♂️
-
 - Conteúdo de aulas praticas da Rocketseat com o instrutor Diego Fernandes e Rodrigo Gonçalves
 - Projeto consiste em criar um site para encontrar seu duo de jogos usando a api da twitch
+
+## Rodar o projeto 🚴🏻‍♂️
 
 #### On your machine:
 
