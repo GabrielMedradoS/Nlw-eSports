@@ -77,7 +77,7 @@
 $ git clone https://github.com/GabrielMedradoS/Nlw-eSports.git
 
 # Access the project folder at the command prompt
-$ cd return/web
+$ cd web
 
 # Install the dependencies
 $ npm install
@@ -86,6 +86,60 @@ $ npm install
 $ npm run dev
 
 # The project will start at the door: 5173 - access http://localhost:5173
+```
+
+##### Mobile
+
+<details>
+    <summary>Dependencies</summary>
+
+```json
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@expo-google-fonts/inter": "^0.2.2",
+    "expo": "~46.0.16",
+    "expo-font": "~10.2.0",
+    "expo-linear-gradient": "~11.4.0",
+    "expo-status-bar": "~1.4.0",
+    "react": "18.0.0",
+    "react-dom": "18.0.0",
+    "react-native": "0.69.6",
+    "react-native-safe-area-context": "4.3.1",
+    "react-native-web": "~0.18.7"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9",
+    "@types/react": "~18.0.0",
+    "@types/react-native": "~0.69.1",
+    "typescript": "~4.3.5"
+  },
+  "private": true
+}
+```
+
+</details>
+
+```bash
+# Clone the repository
+$ git clone https://github.com/GabrielMedradoS/Nlw-eSports.git
+
+# Access the project folder at the command prompt
+$ cd mobile
+
+# Install the dependencies
+$ npm install
+
+# Run the script "start"
+$ npm run start
+
+# The project start and generate a Qr Code
 ```
 
 ## Tecnologias 🛠
@@ -112,6 +166,10 @@ _`Aula 2 :`_
 
 - [Tailwind](https://tailwindcss.com/docs/installation/using-postcss)
 - [Tailwind backgroundImage](https://tailwindcss.com/docs/background-image)
+
+- [Expo fonts](https://docs.expo.dev/guides/using-custom-fonts/)
+- [React Navigation](https://reactnavigation.org/docs/getting-started/)
+- [Expo Linear Gradient](https://docs.expo.dev/versions/latest/sdk/linear-gradient/)
 
 ## Licença ⚖️
 
