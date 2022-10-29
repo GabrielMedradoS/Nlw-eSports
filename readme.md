@@ -1,7 +1,7 @@
 ## nlw e-sports
 
 <div align="center">
-🚧 under construction 🚧
+🚧<b> under construction </b>🚧
   <img src="" alt="" width="80%">
 </div>
 
@@ -31,6 +31,9 @@
 
 ## Rodar o projeto 🚴🏻‍♂️
 
+- Conteúdo de aulas praticas da Rocketseat com o instrutor Diego Fernandes e Rodrigo Gonçalves
+- Projeto consiste em criar um site para encontrar seu duo de jogos usando a api da twitch
+
 #### On your machine:
 
 ##### Front-end
@@ -39,7 +42,32 @@
     <summary>Dependencies</summary>
 
 ```json
-
+{
+  "name": "web",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "phosphor-react": "^1.4.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.22",
+    "@types/react-dom": "^18.0.7",
+    "@vitejs/plugin-react": "^2.2.0",
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.18",
+    "tailwindcss": "^3.2.1",
+    "typescript": "^4.6.4",
+    "vite": "^3.2.0"
+  }
+}
 ```
 
 </details>
@@ -62,9 +90,25 @@ $ npm run dev
 
 ## Tecnologias 🛠
 
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  height="30" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  height="30" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="30" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="30" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+  alt="typescript" height="30" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" height="30" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+</div>
+
 #### documentation 📜
 
 _`Aula 1 :`_
+
+- [Vite | documentation](https://vitejs.dev/)
+- [Expo](https://expo.dev/)
+
+_`Aula 2 :`_
 
 - [Tailwind](https://tailwindcss.com/docs/installation/using-postcss)
 - [Tailwind backgroundImage](https://tailwindcss.com/docs/background-image)
