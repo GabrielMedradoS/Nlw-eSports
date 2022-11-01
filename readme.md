@@ -142,6 +142,58 @@ $ npm run start
 # The project start and generate a Qr Code
 ```
 
+##### Back-end
+
+<details>
+    <summary>Dependencies</summary>
+
+```json
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "ts-node-dev --exit-child src/server.ts",
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^4.5.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.12",
+    "@types/express": "^4.17.14",
+    "prisma": "^4.5.0",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^4.8.4"
+  }
+}
+```
+
+</details>
+
+```bash
+# Clone the repository
+$ git clone https://github.com/GabrielMedradoS/Nlw-eSports.git
+
+# Access the project folder at the command prompt
+$ cd server
+
+# Install the dependencies
+$ npm install
+
+# Run the script "start"
+$ npm run dev
+
+# The project will start at the door: 3333 - access http://localhost:3333
+```
+
 ## Tecnologias 🛠
 
 <div>
@@ -167,9 +219,17 @@ _`Aula 2 :`_
 - [Tailwind](https://tailwindcss.com/docs/installation/using-postcss)
 - [Tailwind backgroundImage](https://tailwindcss.com/docs/background-image)
 
+##### Mobile
+
 - [Expo fonts](https://docs.expo.dev/guides/using-custom-fonts/)
 - [React Navigation](https://reactnavigation.org/docs/getting-started/)
 - [Expo Linear Gradient](https://docs.expo.dev/versions/latest/sdk/linear-gradient/)
+
+_`Aula 3 :`_
+
+- [prisma](https://www.prisma.io/)
+- [prisma Datasource Provider](https://www.prisma.io/docs/reference/api-reference/command-reference)
+- [cors](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/CORS)
 
 ## Licença ⚖️
 
