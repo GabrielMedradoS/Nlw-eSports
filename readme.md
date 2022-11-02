@@ -231,6 +231,14 @@ _`Aula 3 :`_
 - [prisma Datasource Provider](https://www.prisma.io/docs/reference/api-reference/command-reference)
 - [cors](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/CORS)
 
+_`Aula 4 :`_
+
+- [State Hook](https://reactjs.org/docs/hooks-state.html)
+- [Effect Hook](https://reactjs.org/docs/hooks-effect.html)
+- [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
+- [Radix](https://www.radix-ui.com/)
+- [Radix Dialog](https://www.radix-ui.com/docs/primitives/overview/getting-started)
+
 ## Licença ⚖️
 
 This project is under the MIT license. See the archive [LICENSE]() for more details.
