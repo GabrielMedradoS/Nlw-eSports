@@ -1,8 +1,7 @@
 ## nlw e-sports
 
 <div align="center">
-🚧<b> under construction </b>🚧
-  <img src="" alt="" width="80%">
+  <img src=".github/icon.png" alt="" width="80%">
 </div>
 
 <p align="center">
@@ -25,7 +24,18 @@
 
 ### Layout 🚧
 
-<h4 align='center'><h4 align='center'><img src="" alt="" width="40%"></h4></h4>
+#### Desktop Screenshot:
+
+<div align='center'>
+<img src=".github/nlw eSports.png" alt="widget" width="40%">
+<img src=".github/nlw eSports ads.png" alt="widget" width="45%">
+</div>
+
+#### Mobile Screenshot:
+
+<div align='center'>
+<b>🚧Under Construction 🚧 </b>
+</div>
 
 ## Projeto 💻
 
