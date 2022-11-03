@@ -55,6 +55,8 @@
   "dependencies": {
     "@radix-ui/react-checkbox": "^1.0.1",
     "@radix-ui/react-dialog": "^1.0.2",
+    "@radix-ui/react-toggle-group": "^1.0.1",
+    "axios": "^1.1.3",
     "phosphor-react": "^1.4.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
@@ -246,6 +248,13 @@ _`Aula 5 :`_
 - [Radix Checkbox](https://www.radix-ui.com/docs/primitives/components/checkbox)
 - [Radix Select](https://www.radix-ui.com/docs/primitives/components/select)
 - [Radix Toggle Group](https://www.radix-ui.com/docs/primitives/components/toggle-group)
+- [Axios](https://axios-http.com/ptbr/docs/intro)
+
+_`Proximo Nível :`_
+
+- [Validação](https://react-hook-form.com/get-started#SchemaValidation)
+- [Radix select](https://www.radix-ui.com/docs/primitives/components/select)
+- [Carrossel](https://keen-slider.io/)
 
 ## Licença ⚖️
 
