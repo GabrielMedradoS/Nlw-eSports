@@ -1,7 +1,7 @@
 ## nlw e-sports
 
 <div align="center">
-  <img src=".github/icon.png" alt="" width="80%">
+  <img src=".github/icon.png" alt="" width="18%">
 </div>
 
 <p align="center">
