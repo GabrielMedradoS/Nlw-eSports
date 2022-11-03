@@ -53,6 +53,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@radix-ui/react-checkbox": "^1.0.1",
+    "@radix-ui/react-dialog": "^1.0.2",
     "phosphor-react": "^1.4.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
@@ -238,6 +240,12 @@ _`Aula 4 :`_
 - [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
 - [Radix](https://www.radix-ui.com/)
 - [Radix Dialog](https://www.radix-ui.com/docs/primitives/overview/getting-started)
+
+_`Aula 5 :`_
+
+- [Radix Checkbox](https://www.radix-ui.com/docs/primitives/components/checkbox)
+- [Radix Select](https://www.radix-ui.com/docs/primitives/components/select)
+- [Radix Toggle Group](https://www.radix-ui.com/docs/primitives/components/toggle-group)
 
 ## Licença ⚖️
 
