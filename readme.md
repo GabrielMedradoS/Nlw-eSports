@@ -27,7 +27,7 @@
 #### Desktop Screenshot:
 
 <div align='center'>
-<img src=".github/nlw eSports.png" alt="widget" width="40%">
+<img src=".github/github image.png" alt="widget" width="40%">
 <img src=".github/nlw eSports ads.png" alt="widget" width="45%">
 </div>
 
